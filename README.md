@@ -29,7 +29,7 @@
 </br>
 
 
-[배포완료](http://pre12.s3-website.ap-northeast-2.amazonaws.com/)
+[서비스 중지](http://pre12.s3-website.ap-northeast-2.amazonaws.com/)
 
 
 
